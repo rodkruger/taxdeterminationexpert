@@ -1,0 +1,288 @@
+DOCNUM,ITMNUM,EXPECTED,INFORMED,INFADPROD
+6079582,10,12.0,18.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-O e 313-P do RICMS/SP - Portaria CAT nº 45/2017. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, c/c Anexo I, da Resolução SF nº 4/1998. "
+6079581,10,12.0,18.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-O e 313-P do RICMS/SP - Portaria CAT nº 45/2017. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, c/c Anexo I, da Resolução SF nº 4/1998. "
+6059944,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059944,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059944,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059944,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059944,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6069945,60,0.0,18.0,"PIS: Art. 1º, V, da Lei nº 10.925/2004 ICMS: Convênio ICMS nº 142/2005, art. 8º, parte geral, c/c art. 123 do Anexo I do RICMS/SP. art. 52, I do RICMS/SP "
+6069945,70,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XIV, da Lei nº 10.925/2004 e Art. 10, I, da MP nº 609/2013 ICMS: art. 51, parte geral, c/c art. 39, VI do Anexo II do RICMS/SP. Convênio ICMS nº 128/1994, arts. 51 e 54, III, parte geral, c/c art. 3º, XVII, do Anexo II, do RICMS/SP. art. 54, III do RICMS/SP. "
+6069945,120,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XVIII, da Lei nº 10.925/2004, Art. 2º da Lei nº 12.655/2012 e Art. 19, da Lei nº 12.794/2013 ICMS: Convênio ICMS nº 128/1994, arts. 51 e 52, I, parte geral, c/c art. 3º, XIX, do Anexo II, do RICMS/SP. Art. 54, III, do RICMS/SP. "
+6082973,70,0.0,18.0,"PIS: Art. 1º, V, da Lei nº 10.925/2004 ICMS: Convênio ICMS nº 142/2005, art. 8º, parte geral, c/c art. 123 do Anexo I do RICMS/SP. art. 52, I do RICMS/SP "
+6082973,80,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XIV, da Lei nº 10.925/2004 e Art. 10, I, da MP nº 609/2013 ICMS: art. 51, parte geral, c/c art. 39, VI do Anexo II do RICMS/SP. Convênio ICMS nº 128/1994, arts. 51 e 54, III, parte geral, c/c art. 3º, XVII, do Anexo II, do RICMS/SP. art. 54, III do RICMS/SP. "
+6082973,130,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XVIII, da Lei nº 10.925/2004, Art. 2º da Lei nº 12.655/2012 e Art. 19, da Lei nº 12.794/2013 ICMS: Convênio ICMS nº 128/1994, arts. 51 e 52, I, parte geral, c/c art. 3º, XIX, do Anexo II, do RICMS/SP. Art. 54, III, do RICMS/SP. "
+6083087,80,0.0,18.0,"PIS: Art. 1º, V, da Lei nº 10.925/2004 ICMS: Convênio ICMS nº 142/2005, art. 8º, parte geral, c/c art. 123 do Anexo I do RICMS/SP. art. 52, I do RICMS/SP "
+6083087,90,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XIV, da Lei nº 10.925/2004 e Art. 10, I, da MP nº 609/2013 ICMS: art. 51, parte geral, c/c art. 39, VI do Anexo II do RICMS/SP. Convênio ICMS nº 128/1994, arts. 51 e 54, III, parte geral, c/c art. 3º, XVII, do Anexo II, do RICMS/SP. art. 54, III do RICMS/SP. "
+6083087,130,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XVIII, da Lei nº 10.925/2004, Art. 2º da Lei nº 12.655/2012 e Art. 19, da Lei nº 12.794/2013 ICMS: Convênio ICMS nº 128/1994, arts. 51 e 52, I, parte geral, c/c art. 3º, XIX, do Anexo II, do RICMS/SP. Art. 54, III, do RICMS/SP. "
+6083024,100,0.0,18.0,"PIS: Art. 1º, V, da Lei nº 10.925/2004 ICMS: Convênio ICMS nº 142/2005, art. 8º, parte geral, c/c art. 123 do Anexo I do RICMS/SP. art. 52, I do RICMS/SP "
+6083024,110,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XIV, da Lei nº 10.925/2004 e Art. 10, I, da MP nº 609/2013 ICMS: art. 51, parte geral, c/c art. 39, VI do Anexo II do RICMS/SP. Convênio ICMS nº 128/1994, arts. 51 e 54, III, parte geral, c/c art. 3º, XVII, do Anexo II, do RICMS/SP. art. 54, III do RICMS/SP. "
+6083024,150,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XVIII, da Lei nº 10.925/2004, Art. 2º da Lei nº 12.655/2012 e Art. 19, da Lei nº 12.794/2013 ICMS: Convênio ICMS nº 128/1994, arts. 51 e 52, I, parte geral, c/c art. 3º, XIX, do Anexo II, do RICMS/SP. Art. 54, III, do RICMS/SP. "
+6103591,20,0.0,18.0,"PIS: Art. 1º, V, da Lei nº 10.925/2004 ICMS: Convênio ICMS nº 142/2005, art. 8º, parte geral, c/c art. 123 do Anexo I do RICMS/SP. art. 52, I do RICMS/SP "
+6103591,30,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XIV, da Lei nº 10.925/2004 e Art. 10, I, da MP nº 609/2013 ICMS: art. 51, parte geral, c/c art. 39, VI do Anexo II do RICMS/SP. Convênio ICMS nº 128/1994, arts. 51 e 54, III, parte geral, c/c art. 3º, XVII, do Anexo II, do RICMS/SP. art. 54, III do RICMS/SP. "
+6103591,60,12.0,18.0,"vBCFCP: R$ 0. pFCP: 0%. vFCP: R$ 0. PIS: Art. 1º, XVIII, da Lei nº 10.925/2004, Art. 2º da Lei nº 12.655/2012 e Art. 19, da Lei nº 12.794/2013 ICMS: Convênio ICMS nº 128/1994, arts. 51 e 52, I, parte geral, c/c art. 3º, XIX, do Anexo II, do RICMS/SP. Art. 54, III, do RICMS/SP. "
+6061599,10,0.0,18.0,Regra não encontrada
+6065947,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,4,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059930,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,6,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,9,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,7,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059930,8,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059941,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059941,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059941,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059941,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059941,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059941,6,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6061589,10,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6061589,20,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z3, § 1º, e 313-Z4 do RICMS/SP e Portaria CAT nº 88/2017. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6075000,10,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6062804,10,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6062804,20,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6066254,10,0.0,0.0,Regra não encontrada
+6066254,20,0.0,0.0,Regra não encontrada
+6066254,30,0.0,0.0,Regra não encontrada
+6066254,40,0.0,0.0,Regra não encontrada
+6066254,50,0.0,0.0,Regra não encontrada
+6078326,10,0.0,0.0,Regra não encontrada
+6083468,10,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-O e 313-P do RICMS/SP - Portaria CAT nº 45/2017. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059552,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059552,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059552,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059552,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059552,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6060647,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6060647,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6060647,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6060647,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6060606,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6060606,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6060606,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6060647,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059741,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059741,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059741,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059741,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059741,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059742,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059742,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059742,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059743,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059743,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059743,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6060604,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6060604,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6060604,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059603,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059603,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059603,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059603,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059603,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059640,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059704,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059705,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059709,1,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059709,2,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059712,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059724,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059726,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z19 e 313-Z20, do RICMS/SP e Portaria  Cat 85/2016. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059728,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059729,1,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059434,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073972,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073972,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073972,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073972,4,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6073972,5,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073972,6,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6073972,7,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073972,8,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-O e 313-P do RICMS/SP - Portaria CAT nº 45/2017. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6073972,9,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073974,1,12.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073974,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073974,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073974,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073974,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073974,6,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6073975,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073975,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073975,2,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6073975,3,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6073975,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073975,6,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073975,7,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073975,8,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073975,9,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073975,10,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059504,1,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059668,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z19 e 313-Z20, do RICMS/SP e Portaria  Cat 85/2016. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059693,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z19 e 313-Z20, do RICMS/SP e Portaria  Cat 85/2016. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059697,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059502,1,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059616,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059616,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059616,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059616,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059616,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059616,6,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059636,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6061010,10,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059692,1,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059694,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059696,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059699,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059702,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059706,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059707,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059707,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059707,3,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059707,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059707,5,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6073973,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,6,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,7,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,8,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6073973,9,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6073973,10,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059509,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059701,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059710,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059710,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6061019,10,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059711,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059714,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059715,1,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059715,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059715,3,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059715,4,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059715,5,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059715,6,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059717,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059717,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059717,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059717,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059717,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059717,6,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059719,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059719,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059719,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059719,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059719,5,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059722,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059722,2,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059722,3,12.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059722,4,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059722,5,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059723,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z19 e 313-Z20, do RICMS/SP e Portaria  Cat 85/2016. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059725,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059665,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z19 e 313-Z20, do RICMS/SP e Portaria  Cat 85/2016. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059713,1,12.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059727,1,18.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z19 e 313-Z20, do RICMS/SP e Portaria  Cat 85/2016. art. 37, I, e § 1º do RICMS/SP. art. 52, I do RICMS/SP. "
+6059730,1,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059730,2,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Arts. 313-Z17 e 313-Z18 do RICMS/SP e Portaria CAT nº 4/2018. art. 37, I, e § 1º do RICMS/SP. Art. 54, V, do RICMS/SP, e Resolução SF nº 31/2008. "
+6059698,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059920,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059920,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059923,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059923,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059923,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059924,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059924,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059924,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059617,10,7.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059617,20,7.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059617,30,7.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059619,10,7.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Art. 289 do RICMS/BA c/c Item 1, do Anexo 1, do RICMS/BA. art. 37, I, e § 1º do RICMS/SP. art. 52, II do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059919,4,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059919,1,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059919,2,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059919,3,18.0,0.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059472,10,0.0,0.0,Regra não encontrada
+6059610,10,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Capítulo 1, da Parte 2, do Anexo XV, do RICMS/MG. art. 37, I, e § 1º do RICMS/SP. art. 52, III do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059618,10,7.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Art. 289 do RICMS/BA c/c Item 1, do Anexo 1, do RICMS/BA. art. 37, I, e § 1º do RICMS/SP. art. 52, II do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059620,10,7.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Art. 289 do RICMS/BA c/c Item 1, do Anexo 1, do RICMS/BA. art. 37, I, e § 1º do RICMS/SP. art. 52, II do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059634,10,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Capítulo 1, da Parte 2, do Anexo XV, do RICMS/MG. art. 37, I, e § 1º do RICMS/SP. art. 52, III do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059678,10,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Capítulo 1, da Parte 2, do Anexo XV, do RICMS/MG. art. 37, I, e § 1º do RICMS/SP. art. 52, III do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059679,10,12.0,0.0,"vBCFCPST: R$ 71846.0618. pFCPST: 2.0000%. vFCPST: R$ 1436.9212. ICMS: Capítulo 1, da Parte 2, do Anexo XV, do RICMS/MG. art. 43, IV, `a`, do RICMS/MG. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008. art. 37, I, e § 1º do RICMS/SP. art. 52, III do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059721,10,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Capítulo 1, da Parte 2, do Anexo XV, do RICMS/MG. art. 37, I, e § 1º do RICMS/SP. art. 52, III do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059435,10,12.0,0.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059638,10,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Capítulo 1, da Parte 2, do Anexo XV, do RICMS/MG. art. 37, I, e § 1º do RICMS/SP. art. 52, III do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059695,10,12.0,0.0,"vBCFCPST: R$ 0. pFCPST: 0%. vFCPST: R$ 0. ICMS: Capítulo 1, da Parte 2, do Anexo XV, do RICMS/MG. art. 37, I, e § 1º do RICMS/SP. art. 52, III do RICMS/SP. Protocolo ICMS CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA - CONFAZ nº 41 de 04.04.2008 "
+6059451,10,0.0,18.0,Regra não encontrada
+6059440,10,0.0,18.0,Regra não encontrada
+6059440,20,0.0,18.0,Regra não encontrada
+6059441,10,0.0,18.0,Regra não encontrada
+6059441,20,0.0,18.0,Regra não encontrada
+6059441,30,0.0,18.0,Regra não encontrada
+6059441,40,0.0,18.0,Regra não encontrada
+6059441,50,0.0,18.0,Regra não encontrada
+6059454,10,0.0,18.0,Regra não encontrada
+6059454,20,0.0,18.0,Regra não encontrada
+6059454,30,0.0,18.0,Regra não encontrada
+6059938,10,0.0,18.0,Regra não encontrada
+6059938,20,0.0,18.0,Regra não encontrada
+6059938,30,0.0,18.0,Regra não encontrada
+6059413,10,0.0,18.0,Regra não encontrada
+6059430,10,0.0,18.0,Regra não encontrada
+6059430,20,0.0,18.0,Regra não encontrada
+6059430,30,0.0,18.0,Regra não encontrada
+6059430,40,0.0,18.0,Regra não encontrada
+6059430,50,0.0,18.0,Regra não encontrada
+6059430,60,0.0,18.0,Regra não encontrada
+6059433,10,0.0,18.0,Regra não encontrada
+6059433,20,0.0,18.0,Regra não encontrada
+6059438,10,0.0,18.0,Regra não encontrada
+6059436,10,0.0,18.0,Regra não encontrada
+6059829,10,12.0,18.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059829,20,12.0,18.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059829,30,12.0,18.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059423,10,0.0,18.0,Regra não encontrada
+6059902,10,0.0,18.0,Regra não encontrada
+6059902,20,0.0,18.0,Regra não encontrada
+6059381,10,12.0,18.0,pFCP: 0%. vFCP: R$ 0.00. 
+6059383,10,12.0,18.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059383,20,12.0,18.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059383,30,12.0,18.0,pFCP: 0%. vFCP: R$ 0.0. 
+6059872,10,0.0,18.0,Regra não encontrada
+6059872,20,0.0,18.0,Regra não encontrada
+6059872,30,0.0,18.0,Regra não encontrada
+6059872,40,0.0,18.0,Regra não encontrada
+6059872,50,0.0,18.0,Regra não encontrada
+6059872,60,0.0,18.0,Regra não encontrada
+6059865,10,0.0,18.0,Regra não encontrada
+6059865,20,0.0,18.0,Regra não encontrada
+6059865,30,0.0,18.0,Regra não encontrada
+6059865,40,0.0,18.0,Regra não encontrada
+6059865,50,0.0,18.0,Regra não encontrada
+6059865,60,0.0,18.0,Regra não encontrada
+6059865,70,0.0,18.0,Regra não encontrada
+6059865,80,0.0,18.0,Regra não encontrada
+6059865,90,0.0,18.0,Regra não encontrada
+6059865,100,0.0,18.0,Regra não encontrada
+6059865,110,0.0,18.0,Regra não encontrada
+6059865,120,0.0,18.0,Regra não encontrada
+6059865,130,0.0,18.0,Regra não encontrada
+6059865,140,0.0,18.0,Regra não encontrada
+6059865,150,0.0,18.0,Regra não encontrada
+6059865,160,0.0,18.0,Regra não encontrada
+6059865,170,0.0,18.0,Regra não encontrada
+6059865,180,0.0,18.0,Regra não encontrada
+6059865,190,0.0,18.0,Regra não encontrada
+6059865,200,0.0,18.0,Regra não encontrada
+6059865,210,0.0,18.0,Regra não encontrada
+6059865,220,0.0,18.0,Regra não encontrada
+6059865,230,0.0,18.0,Regra não encontrada
+6059865,240,0.0,18.0,Regra não encontrada
+6059865,250,0.0,18.0,Regra não encontrada
+6059865,260,0.0,18.0,Regra não encontrada
+6059865,270,0.0,18.0,Regra não encontrada
+6059865,280,0.0,18.0,Regra não encontrada
+6059929,10,0.0,18.0,Regra não encontrada
